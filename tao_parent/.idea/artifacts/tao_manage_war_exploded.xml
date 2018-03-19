@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="tao_manage:war exploded">
+    <output-path>$PROJECT_DIR$/tao_manage/target/tao_manage</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="tao_manage" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/tao_manage/target/tao_manage/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="tao_manage/web/Web" />
+    </root>
+  </artifact>
+</component>

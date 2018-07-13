@@ -27,7 +27,7 @@
             <tx:method name="get*" propagation="SUPPORTS" read-only="true" />
         </tx:attributes>
     </tx:advice>
-    <tx:annotation-driven transaction-manager="transactionManager"/>
+    <tx:annotation-driven transaction-manager="transactionManager" proxy-target-class="true"/>
     <!-- 切面 -->
     <aop:config>
         <aop:advisor advice-ref="txAdvice"

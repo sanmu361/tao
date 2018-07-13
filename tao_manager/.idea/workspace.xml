@@ -20,205 +20,103 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="item-list.html" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/pages/item-list.html">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="-154">
-                    <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
-                    <folding>
-                      <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ItemController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/java/com/sanmu/tao/controller/ItemController.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ItemServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/impl/ItemServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+            <state relative-caret-position="475">
+              <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="item-edit.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/pages/item-edit.html">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="12" column="77" lean-forward="false" selection-start-line="12" selection-start-column="77" selection-end-line="12" selection-end-column="77" />
-              <folding>
-                <element signature="n#style#0;n#input#0;n#td#1;n#tr#0;n#table#0;n#form#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TbItemDescMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tao_manager_mapper/src/main/java/com/sanmu/tao/mapper/TbItemDescMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="205" column="41" lean-forward="false" selection-start-line="205" selection-start-column="14" selection-end-line="205" selection-end-column="41" />
-              <folding>
-                <marker date="1530691628941" expanded="true" signature="4148:4311" ph="select , fro... " />
-                <marker date="1530691628941" expanded="true" signature="4395:4465" ph="delete from tb_item_desc... " />
-                <marker date="1530691628941" expanded="true" signature="4568:4592" ph="delete from tb_item_desc... " />
-                <marker date="1530691628941" expanded="true" signature="4772:4984" ph="insert into tb_item_desc... " />
-                <marker date="1530691628941" expanded="true" signature="5977:6010" ph="select count... tb_item_desc" />
-                <marker date="1530691628941" expanded="true" signature="6846:7083" ph="update tb_item_desc... " />
-                <marker date="1530691628941" expanded="true" signature="7256:7434" ph="update tb_item_desc... " />
-                <marker date="1530691628941" expanded="true" signature="7645:8026" ph="update tb_item_desc... " />
-                <marker date="1530691628941" expanded="true" signature="8134:8346" ph="update tb_item_desc... " />
-                <marker date="1530691628941" expanded="true" signature="8445:8605" ph="update tb_item_desc... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TbItemMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tao_manager_mapper/src/main/java/com/sanmu/tao/mapper/TbItemMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="28" column="26" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="26" />
+            <state relative-caret-position="-551">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TbItemMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tao_manager_mapper/src/main/java/com/sanmu/tao/mapper/TbItemMapper.xml">
+      <file leaf-file-name="applicationContext-service.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/resources/spring/applicationContext-service.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="254" column="41" lean-forward="false" selection-start-line="254" selection-start-column="14" selection-end-line="254" selection-end-column="41" />
-              <folding>
-                <marker date="1530691628945" expanded="true" signature="3975:4077" ph="select from tb_item" />
-                <marker date="1530691628945" expanded="true" signature="4161:4217" ph="delete from tb_item... " />
-                <marker date="1530691628945" expanded="true" signature="4316:4335" ph="delete from tb_item... " />
-                <marker date="1530691628945" expanded="true" signature="4511:4969" ph="insert into tb_item... " />
-                <marker date="1530691628945" expanded="true" signature="6906:6934" ph="select count... tb_item" />
-                <marker date="1530691628945" expanded="true" signature="8451:9004" ph="update tb_item... " />
-                <marker date="1530691628945" expanded="true" signature="9211:10188" ph="update tb_item... " />
-                <marker date="1530691628945" expanded="true" signature="10283:10762" ph="update tb_item... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AopUtils.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.1.3.RELEASE/spring-aop-4.1.3.RELEASE.jar!/org/springframework/aop/support/AopUtils.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="177" column="0" lean-forward="false" selection-start-line="177" selection-start-column="0" selection-end-line="177" selection-end-column="0" />
-              <folding>
-                <marker date="1530693161517" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1530693161517" expanded="false" signature="155:1022" ph="..." />
-                <marker date="1530693161517" expanded="true" signature="1079:1086" ph="{}" />
-                <marker date="1530693161517" expanded="true" signature="1140:1287" ph="{...}" />
-                <marker date="1530693161517" expanded="true" signature="1348:1442" ph="{...}" />
-                <marker date="1530693161517" expanded="true" signature="1498:1586" ph="{...}" />
-                <marker date="1530693161517" expanded="true" signature="1592:1610" ph="/**...*/" />
-                <marker date="1530693161517" expanded="false" signature="1686:1697" ph=" { " />
-                <marker date="1530693161517" expanded="false" signature="1740:1746" ph=" }" />
-                <marker date="1530693161517" expanded="true" signature="1752:1770" ph="/**...*/" />
-                <marker date="1530693161517" expanded="true" signature="1853:1920" ph="{...}" />
-                <marker date="1530693161517" expanded="true" signature="1982:2398" ph="{...}" />
-                <marker date="1530693161517" expanded="false" signature="2455:2466" ph=" { " />
-                <marker date="1530693161517" expanded="false" signature="2512:2518" ph=" }" />
-                <marker date="1530693161517" expanded="false" signature="2577:2588" ph=" { " />
-                <marker date="1530693161517" expanded="false" signature="2636:2642" ph=" }" />
-                <marker date="1530693161517" expanded="false" signature="2701:2712" ph=" { " />
-                <marker date="1530693161517" expanded="false" signature="2760:2766" ph=" }" />
-                <marker date="1530693161517" expanded="true" signature="2826:2945" ph="{...}" />
-                <marker date="1530693161517" expanded="true" signature="3031:3196" ph="{...}" />
-                <marker date="1530693161517" expanded="false" signature="3267:3278" ph=" { " />
-                <marker date="1530693161517" expanded="false" signature="3318:3324" ph=" }" />
-                <marker date="1530693161517" expanded="true" signature="3422:4777" ph="{...}" />
-                <marker date="1530693161517" expanded="true" signature="4853:4914" ph="{...}" />
-                <marker date="1530693161517" expanded="true" signature="5016:5414" ph="{...}" />
-                <marker date="1530693161517" expanded="true" signature="5522:6492" ph="{...}" />
-                <marker date="1530693161517" expanded="true" signature="6612:7192" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TbItemParamItemMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tao_manager_mapper/src/main/java/com/sanmu/tao/mapper/TbItemParamItemMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="19" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TaotaoResult.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/sanmu/tao/tao_common/1.0-SNAPSHOT/tao_common-1.0-SNAPSHOT.jar!/com/sanmu/tao/pojo/TaotaoResult.class">
+      <file leaf-file-name="applicationContext-trans.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/resources/spring/applicationContext-trans.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="25" />
-              <folding>
-                <marker date="1531393274720" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1531393274720" expanded="false" signature="142:257" ph="..." />
-                <marker date="1531393274720" expanded="true" signature="510:569" ph="{...}" />
-                <marker date="1531393274720" expanded="false" signature="617:628" ph=" { " />
-                <marker date="1531393274720" expanded="false" signature="658:664" ph=" }" />
-                <marker date="1531393274720" expanded="false" signature="701:712" ph=" { " />
-                <marker date="1531393274720" expanded="false" signature="750:756" ph=" }" />
-                <marker date="1531393274720" expanded="true" signature="784:791" ph="{}" />
-                <marker date="1531393274720" expanded="false" signature="857:868" ph=" { " />
-                <marker date="1531393274720" expanded="false" signature="919:925" ph=" }" />
-                <marker date="1531393274720" expanded="true" signature="992:1079" ph="{...}" />
-                <marker date="1531393274720" expanded="true" signature="1118:1203" ph="{...}" />
-                <marker date="1531393274720" expanded="false" signature="1235:1246" ph=" { " />
-                <marker date="1531393274720" expanded="false" signature="1265:1271" ph=" }" />
-                <marker date="1531393274720" expanded="false" signature="1314:1325" ph=" { " />
-                <marker date="1531393274720" expanded="false" signature="1346:1352" ph=" }" />
-                <marker date="1531393274720" expanded="false" signature="1380:1391" ph=" { " />
-                <marker date="1531393274720" expanded="false" signature="1407:1413" ph=" }" />
-                <marker date="1531393274720" expanded="false" signature="1449:1460" ph=" { " />
-                <marker date="1531393274720" expanded="false" signature="1475:1481" ph=" }" />
-                <marker date="1531393274720" expanded="false" signature="1510:1521" ph=" { " />
-                <marker date="1531393274720" expanded="false" signature="1538:1544" ph=" }" />
-                <marker date="1531393274720" expanded="false" signature="1582:1593" ph=" { " />
-                <marker date="1531393274720" expanded="false" signature="1610:1616" ph=" }" />
-                <marker date="1531393274720" expanded="true" signature="1695:2505" ph="{...}" />
-                <marker date="1531393274720" expanded="true" signature="2558:2762" ph="{...}" />
-                <marker date="1531393274720" expanded="true" signature="2841:3361" ph="{...}" />
-              </folding>
+            <state relative-caret-position="537">
+              <caret line="29" column="91" lean-forward="false" selection-start-line="29" selection-start-column="91" selection-end-line="29" selection-end-column="91" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ItemService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/ItemService.java">
+      <file leaf-file-name="applicationContext-dao.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/resources/spring/applicationContext-dao.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            <state relative-caret-position="165">
+              <caret line="11" column="77" lean-forward="false" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="springMVC.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/resources/spring/springMVC.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/resources/spring/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="53" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tao_manager_web/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="27" column="63" lean-forward="false" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tao_manager_service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" column="21" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="25" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -237,20 +135,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>com.taotao</find>
-      <find>aop</find>
-      <find>common</find>
-      <find>tao_common</find>
-      <find>pageH</find>
-      <find>item-list</find>
-      <find>category/list</find>
-      <find>正在处理，</find>
-      <find>param/list</find>
-      <find>item/list</find>
-      <find>selectByExample</find>
-      <find>3.4.2</find>
-      <find>pagehelper</find>
-      <find>IMAGE_BASE_URL</find>
       <find>picFileU</find>
       <find>init</find>
       <find>初始化图片</find>
@@ -264,8 +148,23 @@
       <find>item/update</find>
       <find>item/desc/</find>
       <find>/desc</find>
-      <find>updateByPrimaryKey</find>
       <find>cid</find>
+      <find>updateByPrimaryKey</find>
+      <find>item/param/list</find>
+      <find>item-param-list</find>
+      <find>商品类目I</find>
+      <find>getSelectionsIds</find>
+      <find>easyui-datagrid</find>
+      <find>itemList</find>
+      <find>selectByExample</find>
+      <find>item-param-add</find>
+      <find>list</find>
+      <find>item-edit.html</find>
+      <find>参数</find>
+      <find>param/item</find>
+      <find>showitem</find>
+      <find>/showitem</find>
+      <find>tao_common</find>
     </findStrings>
   </component>
   <component name="GradleLocalSettings">
@@ -283,7 +182,6 @@
         <option value="$PROJECT_DIR$/tao_manager_web/pom.xml" />
         <option value="$PROJECT_DIR$/tao_manager_web/src/main/resources/spring/applicationContext.xml" />
         <option value="$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/tao_manager_web/src/main/resources/spring/applicationContext-trans.xml" />
         <option value="$PROJECT_DIR$/tao_manager_pojo/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/impl/ItemService.java" />
@@ -307,12 +205,20 @@
         <option value="$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/js/common.js" />
         <option value="$PROJECT_DIR$/tao_manager_web/src/main/java/com/sanmu/tao/controller/Picturecontroller.java" />
         <option value="$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/jsp/item-list.jsp" />
-        <option value="$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/pages/item-param-list.html" />
         <option value="$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/pages/item-edit.html" />
         <option value="$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/pages/item-list.html" />
         <option value="$PROJECT_DIR$/tao_manager_web/src/main/java/com/sanmu/tao/controller/ItemController.java" />
         <option value="$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/ItemService.java" />
+        <option value="$PROJECT_DIR$/tao_manager_web/src/main/resources/spring/applicationContext-trans.xml" />
+        <option value="$PROJECT_DIR$/tao_manager_mapper/src/main/java/com/sanmu/tao/mapper/TbItemParamMapper.xml" />
+        <option value="$PROJECT_DIR$/tao_manager_web/src/main/java/com/sanmu/tao/controller/ItemParamController.java" />
+        <option value="$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/ItemParamService.java" />
+        <option value="$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/impl/ItemParamServiceImpl.java" />
+        <option value="$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/pages/item-param-add.html" />
+        <option value="$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/pages/item-param-list.html" />
         <option value="$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/impl/ItemServiceImpl.java" />
+        <option value="$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/pages/item.html" />
+        <option value="$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/pages/item-param-show.html" />
       </list>
     </option>
   </component>
@@ -402,10 +308,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -527,17 +430,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tao" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="ItemService" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="tao_manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tao_manager" type="462c0819:PsiDirectoryNode" />
-              <item name="tao_manager_service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tao" type="462c0819:PsiDirectoryNode" />
               <item name="App" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
@@ -564,52 +456,7 @@
               <item name="tao_manager_web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tao_manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tao_manager" type="462c0819:PsiDirectoryNode" />
-              <item name="tao_manager_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tao_manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tao_manager" type="462c0819:PsiDirectoryNode" />
-              <item name="tao_manager_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tao" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tao_manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tao_manager" type="462c0819:PsiDirectoryNode" />
-              <item name="tao_manager_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tao_manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tao_manager" type="462c0819:PsiDirectoryNode" />
-              <item name="tao_manager_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tao_manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tao_manager" type="462c0819:PsiDirectoryNode" />
-              <item name="tao_manager_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="properties" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tao_manager" type="b2602c69:ProjectViewProjectNode" />
@@ -639,22 +486,15 @@
             </path>
             <path>
               <item name="tao_manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tao_manager" type="462c0819:PsiDirectoryNode" />
-              <item name="tao_manager_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tao_manager" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -668,19 +508,19 @@
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\project\tao\tao_manager\tao_manager_web\src\main\webapp\WEB-INF\pages" />
-      <recent name="D:\project\tao\tao_manager\tao_manager_web\src\main\webapp\WEB-INF\jsp" />
-      <recent name="D:\project\tao\tao_manager\tao_manager_web\src\main\webapp\WEB-INF" />
-      <recent name="D:\project\tao\tao_manager\tao_manager_web\src\main\resources" />
-      <recent name="D:\project\tao\tao_manager\tao_manager_web\src\main\resources\properties" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\project\tao\tao_manager\tao_manager_web\src\main\webapp\WEB-INF\pages" />
       <recent name="D:\project\tao\tao_manager\tao_manager_web\src\main\webapp\WEB-INF\jsp" />
       <recent name="D:\project\tao\tao_manager\tao_manager_web\src\main\webapp\WEB-INF" />
       <recent name="D:\project\tao\tao_manager\tao_manager_web\src\main\webapp" />
       <recent name="D:\project\tao\tao_manager\tao_manager_mapper\src\main\java\com\sanmu\tao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\tao\tao_manager\tao_manager_web\src\main\webapp\WEB-INF\pages" />
+      <recent name="D:\project\tao\tao_manager\tao_manager_web\src\main\webapp\WEB-INF\jsp" />
+      <recent name="D:\project\tao\tao_manager\tao_manager_web\src\main\webapp\WEB-INF" />
+      <recent name="D:\project\tao\tao_manager\tao_manager_web\src\main\resources" />
+      <recent name="D:\project\tao\tao_manager\tao_manager_web\src\main\resources\properties" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -901,12 +741,13 @@
       <workItem from="1530691646925" duration="1344000" />
       <workItem from="1530693125334" duration="8961000" />
       <workItem from="1530756915638" duration="15744000" />
-      <workItem from="1531369630152" duration="17520000" />
+      <workItem from="1531369630152" duration="17806000" />
+      <workItem from="1531448636611" duration="15155000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56223000" />
+    <option name="totallyTimeSpent" value="71664000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -922,7 +763,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37402886" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45948946" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -933,7 +774,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29104477" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17910448" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -982,7 +823,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/impl/ItemServiceImpl.java</url>
-          <line>54</line>
+          <line>58</line>
           <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
@@ -994,182 +835,40 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/impl/ItemServiceImpl.java</url>
-          <line>89</line>
+          <line>95</line>
           <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/impl/ItemServiceImpl.java</url>
-          <line>75</line>
+          <line>81</line>
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/impl/ItemServiceImpl.java</url>
-          <line>79</line>
+          <line>85</line>
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tao_manager_web/src/main/java/com/sanmu/tao/controller/ItemParamController.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/impl/ItemServiceImpl.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="20" />
+      <option name="time" value="28" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/jsp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="31" column="35" lean-forward="false" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/index.jsp" />
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/jsp/content.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/pages/content.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/pages/content-category.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/pages/item-add.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1569">
-          <caret line="121" column="40" lean-forward="false" selection-start-line="121" selection-start-column="40" selection-end-line="121" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-zh_CN.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_pojo/src/main/java/com/sanmu/tao/pojo/TbItemExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-209">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/resources/mybatis/SqlMapConfig.xml">
-      <provider editor-type-id="com.intellij.jsf.yfilesGraph.editor.FacesNavigationFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="32" column="52" lean-forward="false" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="47" column="47" lean-forward="false" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/资源/淘淘商城/源代码/taotao-common/src/main/java/com/taotao/common/utils/FtpUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="129" column="26" lean-forward="false" selection-start-line="129" selection-start-column="26" selection-end-line="129" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="31" column="35" lean-forward="false" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/resources/spring/applicationContext-service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/PictureService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="53" lean-forward="false" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_pojo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="23" column="42" lean-forward="false" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_mapper/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="51" column="42" lean-forward="false" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/jsp/item-add.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="67" column="11" lean-forward="false" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/impl/ItemCatServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
@@ -1190,15 +889,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="62" lean-forward="false" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/resources/spring/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1214,20 +904,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1083">
           <caret line="63" column="17" lean-forward="false" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="17" />
-          <folding>
-            <marker date="1531393274720" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1531393274720" expanded="false" signature="145:282" ph="..." />
-            <marker date="1531393274720" expanded="true" signature="328:335" ph="{}" />
-            <marker date="1531393274720" expanded="true" signature="520:2518" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/resources/spring/springMVC.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="25" column="66" lean-forward="false" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1235,55 +911,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="137" column="0" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
-          <folding>
-            <marker date="1530693161579" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1530693161579" expanded="false" signature="162:720" ph="..." />
-            <marker date="1530693161579" expanded="false" signature="1113:1124" ph=" { " />
-            <marker date="1530693161579" expanded="false" signature="1144:1150" ph=" }" />
-            <marker date="1530693161579" expanded="false" signature="1214:1225" ph=" { " />
-            <marker date="1530693161579" expanded="false" signature="1246:1252" ph=" }" />
-            <marker date="1530693161579" expanded="true" signature="1374:1430" ph="{...}" />
-            <marker date="1530693161579" expanded="true" signature="1509:1568" ph="{...}" />
-            <marker date="1530693161579" expanded="true" signature="1678:1737" ph="{...}" />
-            <marker date="1530693161579" expanded="true" signature="1831:1902" ph="{...}" />
-            <marker date="1530693161579" expanded="true" signature="2042:2748" ph="{...}" />
-            <marker date="1530693161579" expanded="true" signature="2898:4250" ph="{...}" />
-            <marker date="1530693161579" expanded="true" signature="4332:4558" ph="{...}" />
-            <marker date="1530693161579" expanded="true" signature="4621:4957" ph="{...}" />
-            <marker date="1530693161579" expanded="true" signature="5053:5511" ph="{...}" />
-            <marker date="1530693161579" expanded="true" signature="5576:6653" ph="{...}" />
-            <marker date="1530693161579" expanded="true" signature="6738:7343" ph="{...}" />
-            <marker date="1530693161579" expanded="true" signature="7429:8003" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/js/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="25" column="35" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/java/com/sanmu/tao/controller/Picturecontroller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/impl/PictureServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="62" column="33" lean-forward="false" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#735#751#1" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1291,13 +918,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
           <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-          <folding>
-            <marker date="1531393274720" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1531393274720" expanded="false" signature="145:185" ph="..." />
-            <marker date="1531393274720" expanded="true" signature="231:238" ph="{}" />
-            <marker date="1531393274720" expanded="true" signature="279:499" ph="{...}" />
-            <marker date="1531393274720" expanded="true" signature="536:633" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1305,55 +925,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
           <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-          <folding>
-            <marker date="1530693161517" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1530693161517" expanded="false" signature="157:727" ph="..." />
-            <marker date="1530693161517" expanded="true" signature="1163:1500" ph="{...}" />
-            <marker date="1530693161517" expanded="false" signature="1530:1541" ph=" { " />
-            <marker date="1530693161517" expanded="false" signature="1598:1604" ph=" }" />
-            <marker date="1530693161517" expanded="true" signature="1658:2063" ph="{...}" />
-            <marker date="1530693161517" expanded="true" signature="2148:2971" ph="{...}" />
-            <marker date="1530693161517" expanded="true" signature="3059:5626" ph="{...}" />
-            <marker date="1530693161517" expanded="true" signature="5668:6443" ph="{...}" />
-            <marker date="1530693161517" expanded="true" signature="6471:6579" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/resources/spring/applicationContext-dao.xml">
-      <provider editor-type-id="com.intellij.jsf.yfilesGraph.editor.FacesNavigationFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="13" column="72" lean-forward="false" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/resources/spring/applicationContext-trans.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="35" column="8" lean-forward="false" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/jsp/item-list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="42" column="28" lean-forward="false" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/pages/item-param-list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="138" lean-forward="false" selection-start-line="15" selection-start-column="138" selection-end-line="15" selection-end-column="138" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1377,14 +948,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
           <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_mapper/src/main/java/com/sanmu/tao/mapper/TbItemParamItemMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -1425,17 +988,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/ItemService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.1.3.RELEASE/spring-aop-4.1.3.RELEASE.jar!/org/springframework/aop/support/AopUtils.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
+        <state relative-caret-position="2736">
           <caret line="177" column="0" lean-forward="false" selection-start-line="177" selection-start-column="0" selection-end-line="177" selection-end-column="0" />
           <folding>
             <marker date="1530693161517" expanded="false" signature="0:104" ph="/.../" />
@@ -1471,32 +1026,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tao_manager_mapper/src/main/java/com/sanmu/tao/mapper/TbItemMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
+        <state relative-caret-position="475">
           <caret line="28" column="26" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_mapper/src/main/java/com/sanmu/tao/mapper/TbItemMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="254" column="41" lean-forward="false" selection-start-line="254" selection-start-column="14" selection-end-line="254" selection-end-column="41" />
-          <folding>
-            <marker date="1530691628945" expanded="true" signature="3975:4077" ph="select from tb_item" />
-            <marker date="1530691628945" expanded="true" signature="4161:4217" ph="delete from tb_item... " />
-            <marker date="1530691628945" expanded="true" signature="4316:4335" ph="delete from tb_item... " />
-            <marker date="1530691628945" expanded="true" signature="4511:4969" ph="insert into tb_item... " />
-            <marker date="1530691628945" expanded="true" signature="6906:6934" ph="select count... tb_item" />
-            <marker date="1530691628945" expanded="true" signature="8451:9004" ph="update tb_item... " />
-            <marker date="1530691628945" expanded="true" signature="9211:10188" ph="update tb_item... " />
-            <marker date="1530691628945" expanded="true" signature="10283:10762" ph="update tb_item... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tao_manager_mapper/src/main/java/com/sanmu/tao/mapper/TbItemDescMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="3895">
           <caret line="205" column="41" lean-forward="false" selection-start-line="205" selection-start-column="14" selection-end-line="205" selection-end-column="41" />
           <folding>
             <marker date="1530691628941" expanded="true" signature="4148:4311" ph="select , fro... " />
@@ -1513,41 +1051,332 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/impl/ItemServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/tao_manager_mapper/src/main/java/com/sanmu/tao/mapper/TbItemMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        <state relative-caret-position="4826">
+          <caret line="254" column="41" lean-forward="false" selection-start-line="254" selection-start-column="14" selection-end-line="254" selection-end-column="41" />
+          <folding>
+            <marker date="1530691628945" expanded="true" signature="3975:4077" ph="select from tb_item" />
+            <marker date="1530691628945" expanded="true" signature="4161:4217" ph="delete from tb_item... " />
+            <marker date="1530691628945" expanded="true" signature="4316:4335" ph="delete from tb_item... " />
+            <marker date="1530691628945" expanded="true" signature="4511:4969" ph="insert into tb_item... " />
+            <marker date="1530691628945" expanded="true" signature="6906:6934" ph="select count... tb_item" />
+            <marker date="1530691628945" expanded="true" signature="8451:9004" ph="update tb_item... " />
+            <marker date="1530691628945" expanded="true" signature="9211:10188" ph="update tb_item... " />
+            <marker date="1530691628945" expanded="true" signature="10283:10762" ph="update tb_item... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="25" column="35" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_service/tao_manager_service.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_mapper/src/main/java/com/sanmu/tao/mapper/TbItemParamItemMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_mapper/src/main/java/com/sanmu/tao/mapper/TbItemParamItemMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="98" column="27" lean-forward="false" selection-start-line="98" selection-start-column="27" selection-end-line="98" selection-end-column="27" />
+          <folding>
+            <marker date="1530691628949" expanded="true" signature="4251:4411" ph="select , fro... " />
+            <marker date="1530691628949" expanded="true" signature="4495:4562" ph="delete from tb_item_param_item... " />
+            <marker date="1530691628949" expanded="true" signature="4670:4700" ph="delete from tb_item_param_item... " />
+            <marker date="1530691628949" expanded="true" signature="4885:5132" ph="insert into tb_item_param_item... " />
+            <marker date="1530691628949" expanded="true" signature="6272:6311" ph="select count... tb_item_param_item" />
+            <marker date="1530691628949" expanded="true" signature="7248:7534" ph="update tb_item_param_item... " />
+            <marker date="1530691628949" expanded="true" signature="7707:7932" ph="update tb_item_param_item... " />
+            <marker date="1530691628949" expanded="true" signature="8148:8620" ph="update tb_item_param_item... " />
+            <marker date="1530691628949" expanded="true" signature="8733:8987" ph="update tb_item_param_item... " />
+            <marker date="1530691628949" expanded="true" signature="9091:9291" ph="update tb_item_param_item... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_mapper/src/main/java/com/sanmu/tao/mapper/TbItemParamMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="20" column="37" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_pojo/src/main/java/com/sanmu/tao/pojo/TbItemExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <element signature="e#274#275#0" expanded="false" />
+            <element signature="e#330#331#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_mapper/src/main/java/com/sanmu/tao/mapper/TbItemParamMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="76" column="38" lean-forward="false" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="38" />
+          <folding>
+            <marker date="1531453853937" expanded="true" signature="4232:4387" ph="select , fro... " />
+            <marker date="1531453853937" expanded="true" signature="4471:4533" ph="delete from tb_item_param... " />
+            <marker date="1531453853937" expanded="true" signature="4637:4662" ph="delete from tb_item_param... " />
+            <marker date="1531453853937" expanded="true" signature="4843:5092" ph="insert into tb_item_param... " />
+            <marker date="1531453853937" expanded="true" signature="6232:6266" ph="select count... tb_item_param" />
+            <marker date="1531453853937" expanded="true" signature="7208:7496" ph="update tb_item_param... " />
+            <marker date="1531453853937" expanded="true" signature="7669:7896" ph="update tb_item_param... " />
+            <marker date="1531453853937" expanded="true" signature="8108:8585" ph="update tb_item_param... " />
+            <marker date="1531453853937" expanded="true" signature="8694:8950" ph="update tb_item_param... " />
+            <marker date="1531453853937" expanded="true" signature="9050:9252" ph="update tb_item_param... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/ItemParamService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/impl/ItemParamServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="60" column="32" lean-forward="false" selection-start-line="60" selection-start-column="32" selection-end-line="60" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/pages/item-param-add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="35" column="7" lean-forward="false" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/jsp/item-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="19" column="134" lean-forward="false" selection-start-line="19" selection-start-column="134" selection-end-line="19" selection-end-column="134" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/impl/PictureServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/ItemService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/pages/item-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="32" lean-forward="false" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/pages/item-edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="96" column="15" lean-forward="false" selection-start-line="96" selection-start-column="15" selection-end-line="96" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/pages/item-add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/java/com/sanmu/tao/controller/ItemController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="461">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/pages/item-edit.html">
+    <entry file="file://$PROJECT_DIR$/tao_manager_service/src/main/java/com/sanmu/tao/service/impl/ItemServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="12" column="77" lean-forward="false" selection-start-line="12" selection-start-column="77" selection-end-line="12" selection-end-column="77" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#td#1;n#tr#0;n#table#0;n#form#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/pages/item-list.html">
+    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/pages/item-param-list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-154">
-          <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/pages/item-param-show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/java/com/sanmu/tao/controller/Picturecontroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/java/com/sanmu/tao/controller/ItemParamController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_pojo/src/main/java/com/sanmu/tao/pojo/TbItemParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_pojo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="42" lean-forward="false" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="21" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="25" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/resources/spring/applicationContext-trans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="29" column="91" lean-forward="false" selection-start-line="29" selection-start-column="91" selection-end-line="29" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/resources/spring/applicationContext-dao.xml">
+      <provider editor-type-id="com.intellij.jsf.yfilesGraph.editor.FacesNavigationFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="77" lean-forward="false" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/resources/spring/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="53" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="27" column="63" lean-forward="false" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-551">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao_manager_web/src/main/resources/spring/springMVC.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

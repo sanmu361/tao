@@ -10,6 +10,9 @@ import com.sanmu.tao.pojo.*;
 import com.sanmu.tao.service.ItemService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Isolation;
+import org.springframework.transaction.annotation.Propagation;
+import org.springframework.transaction.annotation.Transactional;
 
 import javax.annotation.Resource;
 import java.util.Date;
@@ -51,6 +54,7 @@ public class ItemServiceImpl implements ItemService {
     }
 
     @Override
+    @Transactional(propagation = Propagation.REQUIRED, isolation = Isolation.READ_COMMITTED,rollbackFor = Exception.class)
     public TaotaoResult createItem(TbItem item, String desc, String itemParams) throws Exception {
         Long itemId = IDUtils.getItemId();
 
@@ -64,6 +68,7 @@ public class ItemServiceImpl implements ItemService {
         if(result.getStatus() != 200){
             throw new Exception();
         }
+
         result = insertItemParamItem(itemId,itemParams);
         if(result.getStatus() != 200){
             throw new Exception();
@@ -72,6 +77,7 @@ public class ItemServiceImpl implements ItemService {
     }
 
     @Override
+    @Transactional(propagation = Propagation.REQUIRED, isolation = Isolation.READ_COMMITTED,rollbackFor = Exception.class)
     public TaotaoResult updateItem(TbItem item, String desc, String itemParams) throws Exception {
         Long itemId = item.getId();
 

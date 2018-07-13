@@ -13,11 +13,12 @@
         </tr>
     </thead>
 </table>
-<div id="itemEditWindow" class="easyui-window" title="编辑商品" data-options="modal:true,closed:true,iconCls:'icon-save',href:'/item-edit.html'" style="width:80%;height:80%;padding:10px;">
+<div id="itemEditWindow" class="easyui-window" title="编辑商品" data-options="modal:true,closed:true,iconCls:'icon-save',href:'/pages/item-edit.html'" style="width:80%;height:80%;padding:10px;">
 </div>
 <script>
 
 	function formatItemParamData(value , index){
+	    debugger
 		var json = JSON.parse(value);
 		var array = [];
 		$.each(json,function(i,e){
@@ -42,7 +43,7 @@
         iconCls:'icon-add',
         handler:function(){
         	TAOTAO.createWindow({
-        		url : "/item-param-add",
+        		url : "/pages/item-param-add.html",
         	});
         }
     },{

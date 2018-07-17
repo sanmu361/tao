@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="tao_manager_web:war exploded">
-    <output-path>$PROJECT_DIR$/tao_manager_web/target/tao_manager</output-path>
+    <output-path>$PROJECT_DIR$/tao_manager_web/target/seccenter-boss-web</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
@@ -55,7 +55,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/tao_manager_web/target/tao_manager/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/tao_manager_web/target/seccenter-boss-web/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="tao_manager_web/web/Web" />
     </root>

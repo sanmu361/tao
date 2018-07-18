@@ -10,7 +10,7 @@
     <bean id="transactionManager"
           class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
         <!-- 数据源 -->
-        <property name="dataSource" ref="dataSource" />
+        <property name="dataSource" ref="dynamicDataSource" />
     </bean>
     <!-- 通知 -->
     <tx:advice id="txAdvice" transaction-manager="transactionManager">
@@ -27,11 +27,13 @@
             <tx:method name="get*" propagation="SUPPORTS" read-only="true" />
         </tx:attributes>
     </tx:advice>
-    <tx:annotation-driven transaction-manager="transactionManager" proxy-target-class="true"/>
-    <aop:aspectj-autoproxy proxy-target-class="false"/>
+    <tx:annotation-driven transaction-manager="transactionManager"/>
     <!-- 切面 -->
-    <aop:config>
-        <aop:advisor advice-ref="txAdvice"
-                     pointcut="execution(* com.sanmu.tao.service.*.*(..))" />
-    </aop:config>
+    <!--<aop:config>-->
+        <!--<aop:advisor advice-ref="txAdvice"-->
+                     <!--pointcut="execution(* com.sanmu.tao.service.*.*(..))" />-->
+    <!--</aop:config>-->
+
+    <aop:aspectj-autoproxy />
+
 </beans>

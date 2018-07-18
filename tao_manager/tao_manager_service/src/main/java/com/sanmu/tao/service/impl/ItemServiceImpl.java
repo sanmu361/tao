@@ -8,6 +8,8 @@ import com.sanmu.tao.mapper.TbItemMapper;
 import com.sanmu.tao.mapper.TbItemParamItemMapper;
 import com.sanmu.tao.pojo.*;
 import com.sanmu.tao.service.ItemService;
+import com.sanmu.tao.service.PictureService;
+import com.sanmu.tao.spring.common.context.BeanHolder;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -19,6 +21,7 @@ import org.springframework.transaction.annotation.Transactional;
 import javax.annotation.Resource;
 import java.util.Date;
 import java.util.List;
+import java.util.Map;
 
 /**
  * ${DESCRIPTION}
@@ -49,6 +52,7 @@ public class ItemServiceImpl implements ItemService {
         //分页处理
         PageHelper.startPage(page, rows);
         List<TbItem> list = itemMapper.selectByExample(example);
+
         //创建一个返回值对象
         EUDataGridResult result = new EUDataGridResult();
         result.setRows(list);

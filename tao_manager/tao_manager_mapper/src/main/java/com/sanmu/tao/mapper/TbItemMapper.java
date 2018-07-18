@@ -1,10 +1,13 @@
 package com.sanmu.tao.mapper;
 
-import com.sanmu.tao.datasource.CustAnnotaion;
 import com.sanmu.tao.pojo.TbItem;
 import com.sanmu.tao.pojo.TbItemExample;
 import java.util.List;
+import java.util.Map;
+
+import com.sanmu.tao.spring.common.datasource.Source;
 import org.apache.ibatis.annotations.Param;
+import org.aspectj.lang.annotation.DeclareAnnotation;
 
 public interface TbItemMapper {
     int countByExample(TbItemExample example);
@@ -17,7 +20,6 @@ public interface TbItemMapper {
 
     int insertSelective(TbItem record);
 
-    @CustAnnotaion("1234")
     List<TbItem> selectByExample(TbItemExample example);
 
     TbItem selectByPrimaryKey(Long id);
@@ -29,4 +31,7 @@ public interface TbItemMapper {
     int updateByPrimaryKeySelective(TbItem record);
 
     int updateByPrimaryKey(TbItem record);
+
+    @Source("test")
+    List<Map<String,Object>> selectAll();
 }

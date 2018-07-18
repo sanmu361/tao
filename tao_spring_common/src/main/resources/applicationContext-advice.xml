@@ -1,0 +1,24 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context" xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:aop="http://www.springframework.org/schema/aop" xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+	http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.0.xsd
+	http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.0.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-4.0.xsd
+	http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-4.0.xsd">
+
+    <bean id="dataSourceAdvice" class="com.sanmu.tao.spring.common.datasource.DataSourceAdvice"/>
+
+    <!--<aop:config proxy-target-class="true">-->
+        <!--<aop:aspect ref="dataSourceAdvice">-->
+            <!--<aop:pointcut id="daocut" expression="execution(* com.sanmu.tao.mapper..*(..))"/>-->
+            <!--<aop:around method="around" pointcut-ref="daocut"/>-->
+        <!--</aop:aspect>-->
+    <!--</aop:config>-->
+
+    <aop:config>
+        <aop:pointcut id="daocut" expression="execution(* com.sanmu.tao.mapper..*(..))"/>
+        <aop:advisor advice-ref="dataSourceAdvice" pointcut-ref="daocut"/>
+    </aop:config>
+
+</beans>

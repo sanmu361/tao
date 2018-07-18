@@ -28,9 +28,10 @@
         </tx:attributes>
     </tx:advice>
     <tx:annotation-driven transaction-manager="transactionManager" proxy-target-class="true"/>
+    <aop:aspectj-autoproxy proxy-target-class="false"/>
     <!-- 切面 -->
     <aop:config>
         <aop:advisor advice-ref="txAdvice"
-                     pointcut="execution(* com.sanmu.tao.service.*.*(..))" />
+                     pointcut="execution(* com.sanmu.tao.service.*.*(..)) or execution(* com.sanmu.tao.mapper..*.*(..))" />
     </aop:config>
 </beans>

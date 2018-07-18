@@ -8,6 +8,8 @@ import com.sanmu.tao.mapper.TbItemMapper;
 import com.sanmu.tao.mapper.TbItemParamItemMapper;
 import com.sanmu.tao.pojo.*;
 import com.sanmu.tao.service.ItemService;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Isolation;
@@ -27,6 +29,7 @@ import java.util.List;
 @Service
 public class ItemServiceImpl implements ItemService {
 
+    private static final Logger logger = LoggerFactory.getLogger(ItemServiceImpl.class);
     @Resource
     private TbItemMapper itemMapper;
 
@@ -38,6 +41,8 @@ public class ItemServiceImpl implements ItemService {
 
     @Override
     public EUDataGridResult getItemList(int page, int rows) {
+
+        logger.info("getItemList page = {},rows = {}",page,rows);
 
         //查询商品列表
         TbItemExample example = new TbItemExample();

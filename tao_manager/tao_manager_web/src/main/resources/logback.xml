@@ -73,7 +73,7 @@
         <level value="INFO" />
         <appender-ref ref="dbaccessAppender" />
     </logger>
-    <root level="INFO">
+    <root level="info">
         <appender-ref ref="errorLogger"/>
         <appender-ref ref="infoLogger"/>
         <appender-ref ref="warnLogger"/>

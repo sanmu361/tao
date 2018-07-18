@@ -1,5 +1,6 @@
 package com.sanmu.tao.mapper;
 
+import com.sanmu.tao.datasource.CustAnnotaion;
 import com.sanmu.tao.pojo.TbItem;
 import com.sanmu.tao.pojo.TbItemExample;
 import java.util.List;
@@ -16,6 +17,7 @@ public interface TbItemMapper {
 
     int insertSelective(TbItem record);
 
+    @CustAnnotaion("1234")
     List<TbItem> selectByExample(TbItemExample example);
 
     TbItem selectByPrimaryKey(Long id);

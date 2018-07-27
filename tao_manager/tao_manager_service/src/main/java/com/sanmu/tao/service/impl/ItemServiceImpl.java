@@ -2,7 +2,7 @@ package com.sanmu.tao.service.impl;
 
 import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
-import com.sanmu.tao.IDUtils.IDUtils;
+import com.sanmu.tao.utils.IDUtils;
 import com.sanmu.tao.mapper.TbItemDescMapper;
 import com.sanmu.tao.mapper.TbItemMapper;
 import com.sanmu.tao.mapper.TbItemParamItemMapper;

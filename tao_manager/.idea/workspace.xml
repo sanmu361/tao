@@ -1044,7 +1044,7 @@
       <workItem from="1532313414077" duration="591000" />
       <workItem from="1532599745105" duration="9646000" />
       <workItem from="1532673431504" duration="9660000" />
-      <workItem from="1532691742669" duration="1475000" />
+      <workItem from="1532691742669" duration="2093000" />
     </task>
     <servers />
   </component>
@@ -1063,7 +1063,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131170000" />
+    <option name="totallyTimeSpent" value="131788000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1088" y="-685" width="1096" height="1936" extended-state="7" />
@@ -1323,6 +1323,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1437,6 +1438,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
           <caret line="51" column="6" lean-forward="false" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1489,6 +1491,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1504,6 +1507,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
           <caret line="61" column="33" lean-forward="false" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>

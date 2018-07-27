@@ -1,6 +1,8 @@
-com\sanmu\tao\App.class
-com\sanmu\tao\pojo\EUDataGridResult.class
+com\sanmu\tao\utils\JsonUtils.class
 com\sanmu\tao\pojo\TaotaoResult.class
-com\sanmu\tao\IDUtils\FtpUtil.class
-com\sanmu\tao\IDUtils\IDUtils.class
+com\sanmu\tao\utils\ExceptionUtil.class
+com\sanmu\tao\utils\IDUtils.class
+com\sanmu\tao\utils\FtpUtil.class
+com\sanmu\tao\utils\HttpClientUtils.class
+com\sanmu\tao\pojo\EUDataGridResult.class
 com\sanmu\tao\pojo\EUTreeNode.class

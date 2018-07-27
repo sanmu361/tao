@@ -1,0 +1,12 @@
+com\sanmu\tao\mapper\TbItemCatMapper.class
+com\sanmu\tao\mapper\TbOrderMapper.class
+com\sanmu\tao\mapper\TbItemMapper.class
+com\sanmu\tao\mapper\TbContentCategoryMapper.class
+com\sanmu\tao\mapper\TbOrderShippingMapper.class
+com\sanmu\tao\mapper\TbItemParamMapper.class
+com\sanmu\tao\mapper\TbUserMapper.class
+com\sanmu\tao\mapper\TbContentMapper.class
+com\sanmu\tao\mapper\TbItemParamItemMapper.class
+com\sanmu\tao\mapper\TbOrderItemMapper.class
+com\sanmu\tao\App.class
+com\sanmu\tao\mapper\TbItemDescMapper.class

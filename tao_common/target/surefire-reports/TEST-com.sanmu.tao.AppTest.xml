@@ -22,7 +22,7 @@
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="D:\programFiles\Java\jdk8\jre\lib\endorsed"/>
     <property name="os.arch" value="amd64"/>
-    <property name="visualvm.id" value="40384497757610"/>
+    <property name="visualvm.id" value="34201703223410"/>
     <property name="java.io.tmpdir" value="C:\Users\mi\AppData\Local\Temp\"/>
     <property name="line.separator" value="
 "/>

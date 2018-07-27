@@ -1,7 +1,7 @@
 package com.sanmu.tao.service.impl;
 
-import com.sanmu.tao.IDUtils.FtpUtil;
-import com.sanmu.tao.IDUtils.IDUtils;
+import com.sanmu.tao.utils.FtpUtil;
+import com.sanmu.tao.utils.IDUtils;
 import com.sanmu.tao.service.PictureService;
 import org.joda.time.DateTime;
 import org.slf4j.Logger;

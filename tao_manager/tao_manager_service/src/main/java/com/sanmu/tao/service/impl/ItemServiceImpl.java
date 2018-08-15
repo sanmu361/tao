@@ -2,6 +2,7 @@ package com.sanmu.tao.service.impl;
 
 import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
+import com.sanmu.tao.spring.common.datasource.Source;
 import com.sanmu.tao.utils.IDUtils;
 import com.sanmu.tao.mapper.TbItemDescMapper;
 import com.sanmu.tao.mapper.TbItemMapper;
@@ -52,6 +53,16 @@ public class ItemServiceImpl implements ItemService {
         //分页处理
         PageHelper.startPage(page, rows);
         List<TbItem> list = itemMapper.selectByExample(example);
+
+       Long test = itemMapper.selectAll();
+
+
+//        //分页处理
+//        PageHelper.startPage(page, rows);
+//        List<TbItem> test1 = itemMapper.selectByExample1(example);
+//
+//        PageHelper.startPage(page, rows);
+//        List<TbItem> test2 = itemMapper.selectByExample(example);
 
         //创建一个返回值对象
         EUDataGridResult result = new EUDataGridResult();

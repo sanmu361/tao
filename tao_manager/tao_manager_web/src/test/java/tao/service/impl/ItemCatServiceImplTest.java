@@ -27,7 +27,7 @@ public class ItemCatServiceImplTest {
 
     @Test
     public void getItemCatList() {
-        List<Map<String,Object>> list =  itemMapper.selectAll();
+         Long list =  itemMapper.selectAll();
         System.out.println(list);
     }
 }

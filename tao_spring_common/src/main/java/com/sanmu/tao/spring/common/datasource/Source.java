@@ -1,9 +1,6 @@
 package com.sanmu.tao.spring.common.datasource;
 
-import java.lang.annotation.ElementType;
-import java.lang.annotation.Retention;
-import java.lang.annotation.RetentionPolicy;
-import java.lang.annotation.Target;
+import java.lang.annotation.*;
 
 /**
  * ${DESCRIPTION}
@@ -12,8 +9,11 @@ import java.lang.annotation.Target;
  * @create 2018-07-17 21:04
  **/
 @Retention(RetentionPolicy.RUNTIME)
-@Target({ElementType.TYPE, ElementType.FIELD, ElementType.METHOD, ElementType.CONSTRUCTOR})
+@Target({ElementType.METHOD})
+@Inherited
 public @interface Source {
 
     public String value() default "default";
+
+    public boolean propagation() default false;
 }

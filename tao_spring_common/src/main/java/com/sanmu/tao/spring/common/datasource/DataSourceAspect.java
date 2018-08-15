@@ -21,14 +21,40 @@ public class DataSourceAspect {
             String sigName = source.value();
 
             //切换数据源
-            DataSourceContextHolder.setDbType(sigName);
+            DataSourceContextHolder.setDbType(sigName,source.propagation());
 
-            //用改变的后的参数执行方法
-            Object obj = point.proceed();
+            try{
+                //用改变的后的参数执行方法
+                Object obj = point.proceed();
 
-            DataSourceContextHolder.clearDbType();
+                return obj;
+            }catch (Exception e){
+                throw  e;
+            }finally {
+                DataSourceContextHolder.clearDbType();
+            }
+        }
+        return point.proceed();
+    }
 
-            return obj;
+    public Object around1(ProceedingJoinPoint point, Source source) throws Throwable {
+        if(source != null){
+            //获得目标方法标签里的值
+            String sigName = source.value();
+
+            //切换数据源
+            DataSourceContextHolder.setDbType(sigName,source.propagation());
+
+            try{
+                //用改变的后的参数执行方法
+                Object obj = point.proceed();
+
+                return obj;
+            }catch (Exception e){
+                throw  e;
+            }finally {
+                DataSourceContextHolder.clearDbType();
+            }
         }
         return point.proceed();
     }

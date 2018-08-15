@@ -7,18 +7,25 @@
 	http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.0.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-4.0.xsd
 	http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-4.0.xsd">
 
-    <bean id="dataSourceAdvice" class="com.sanmu.tao.spring.common.datasource.DataSourceAdvice"/>
+    <!--配置方式1-->
+    <bean id="dataSourceAspect" class="com.sanmu.tao.spring.common.datasource.DataSourceAspect"/>
 
-    <!--<aop:config proxy-target-class="true">-->
-        <!--<aop:aspect ref="dataSourceAdvice">-->
-            <!--<aop:pointcut id="daocut" expression="execution(* com.sanmu.tao.mapper..*(..))"/>-->
-            <!--<aop:around method="around" pointcut-ref="daocut"/>-->
-        <!--</aop:aspect>-->
-    <!--</aop:config>-->
-
-    <aop:config>
+    <aop:config proxy-target-class="true">
         <aop:pointcut id="daocut" expression="execution(* com.sanmu.tao.mapper..*(..))"/>
-        <aop:advisor advice-ref="dataSourceAdvice" pointcut-ref="daocut"/>
+        <aop:pointcut id="servicecut" expression="@annotation(source)"/>
+        <aop:aspect ref="dataSourceAspect">
+            <aop:around method="around" pointcut-ref="daocut"/>
+            <aop:around method="around1" pointcut-ref="servicecut"/>
+        </aop:aspect>
     </aop:config>
+
+
+    <!--&lt;!&ndash;配置方式2&ndash;&gt;-->
+    <!--<bean id="dataSourceAdvice" class="com.sanmu.tao.spring.common.datasource.DataSourceAdvice"/>-->
+
+    <!--<aop:config>-->
+        <!--<aop:pointcut id="daocut" expression="execution(* com.sanmu.tao.mapper..*(..))"/>-->
+        <!--<aop:advisor advice-ref="dataSourceAdvice" pointcut-ref="daocut"/>-->
+    <!--</aop:config>-->
 
 </beans>

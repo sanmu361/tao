@@ -87,7 +87,7 @@ public class ContentServiceImpl implements ContentService {
         List<String> idList = Splitter.on(",").omitEmptyStrings().trimResults().splitToList(ids);
 
         for(String id : idList){
-            deleteContent(Long.valueOf(id));
+            deleteContent(Long.parseLong(id));
         }
 
         return TaotaoResult.ok();

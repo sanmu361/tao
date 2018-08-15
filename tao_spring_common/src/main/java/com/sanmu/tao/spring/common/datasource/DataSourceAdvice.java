@@ -19,14 +19,19 @@ public class DataSourceAdvice implements MethodInterceptor {
             String sigName = source.value();
 
             //切换数据源
-            DataSourceContextHolder.setDbType(sigName);
+            DataSourceContextHolder.setDbType(sigName,source.propagation());
 
-            //用改变的后的参数执行方法
-            Object obj = methodInvocation.proceed();
+            try{
+                //用改变的后的参数执行方法
+                Object obj = methodInvocation.proceed();
 
-            DataSourceContextHolder.clearDbType();
+                return obj;
+            }catch (Exception e){
+                throw  e;
+            }finally {
+                DataSourceContextHolder.clearDbType();
+            }
 
-            return obj;
         }
         return methodInvocation.proceed();
     }

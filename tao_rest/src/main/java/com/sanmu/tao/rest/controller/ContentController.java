@@ -21,7 +21,7 @@ public class ContentController {
     @Autowired
     private ContentService contentService;
 
-    @RequestMapping("/category/{cid}")
+    @RequestMapping("/list/{cid}")
     @ResponseBody
     public TaotaoResult getContentList(@PathVariable Long cid){
         TaotaoResult result = null;

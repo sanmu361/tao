@@ -21,6 +21,16 @@
         <property name="minIdle" value="5" />
     </bean>
 
+    <bean id="taotao1" class="com.alibaba.druid.pool.DruidDataSource"
+          destroy-method="close">
+        <property name="url" value="${taotao1.url}" />
+        <property name="username" value="${jdbc.username}" />
+        <property name="password" value="${jdbc.password}" />
+        <property name="driverClassName" value="${jdbc.driver}" />
+        <property name="maxActive" value="10" />
+        <property name="minIdle" value="5" />
+    </bean>
+
     <bean id="test" class="com.alibaba.druid.pool.DruidDataSource"
           destroy-method="close">
         <property name="url" value="${jdbc1.url}" />
@@ -44,6 +54,8 @@
         <property name="targetDataSources">
             <map key-type="java.lang.String">
                 <entry value-ref="test" key="test"/>
+                <entry value-ref="taotao1" key="taotao1"/>
+                <entry value-ref="dataSource" key="default"/>
             </map>
         </property>
         <property name="defaultTargetDataSource" ref="dataSource"></property>

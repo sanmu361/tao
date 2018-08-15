@@ -89,6 +89,20 @@
       order by ${orderByClause}
     </if>
   </select>
+  <select id="selectByExample1" resultMap="BaseResultMap" parameterType="com.sanmu.tao.pojo.TbItemExample" >
+    select
+    <if test="distinct" >
+      distinct
+    </if>
+    <include refid="Base_Column_List" />
+    from tb_item
+    <if test="_parameter != null" >
+      <include refid="Example_Where_Clause" />
+    </if>
+    <if test="orderByClause != null" >
+      order by ${orderByClause}
+    </if>
+  </select>
   <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.Long" >
     select 
     <include refid="Base_Column_List" />
@@ -303,7 +317,7 @@
     where id = #{id,jdbcType=BIGINT}
   </update>
 
-  <select id="selectAll" resultType="java.util.HashMap">
-    select * from test1;
+  <select id="selectAll" resultType="java.lang.Long">
+    select sum(area_id) from test;
   </select>
 </mapper>

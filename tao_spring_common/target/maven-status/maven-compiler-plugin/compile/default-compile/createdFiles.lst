@@ -3,6 +3,8 @@ com\sanmu\tao\spring\common\context\BeanHolder.class
 com\sanmu\tao\spring\common\datasource\DataSourceAdvice.class
 com\sanmu\tao\App.class
 com\sanmu\tao\spring\common\datasource\DataSourceContextHolder.class
-com\sanmu\tao\spring\common\datasource\DataSourceSwitch.class
+com\sanmu\tao\spring\common\datasource\SourceObject.class
+com\sanmu\tao\spring\common\datasource\DataSourceAnnotation.class
 com\sanmu\tao\spring\common\datasource\DataSourceAspect.class
 com\sanmu\tao\spring\common\datasource\Source.class
+com\sanmu\tao\spring\common\datasource\DataSourceAspectJPointcutAdvisor.class

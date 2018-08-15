@@ -1,274 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4518f0b2-403c-4bb6-ba93-fa150b71df22" name="Default" comment="门户广告">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_common/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_manager/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_service/src/main/java/com/sanmu/tao/aop/AspectTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_service/target/classes/com/sanmu/tao/aop/AspectTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_web/src/main/java/com/sanmu/tao/controller/TestController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/classes/com/sanmu/tao/controller/TestController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/seccenter-boss-web/WEB-INF/classes/com/sanmu/tao/controller/TestController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/src/main/java/com/sanmu/tao/portal/pojo/ADItem.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/src/main/java/com/sanmu/tao/portal/service/AdService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/src/main/java/com/sanmu/tao/portal/service/impl/AdServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/src/main/webapp/commons/footer-links.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/src/main/webapp/commons/footer.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/src/main/webapp/commons/header.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/src/main/webapp/commons/shortcut.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/target/classes/com/sanmu/tao/portal/controller/IndexController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/target/classes/com/sanmu/tao/portal/pojo/ADItem.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/target/classes/com/sanmu/tao/portal/service/AdService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/target/classes/com/sanmu/tao/portal/service/impl/AdServiceImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/target/tao_portal/WEB-INF/classes/com/sanmu/tao/portal/controller/IndexController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/target/tao_portal/WEB-INF/classes/com/sanmu/tao/portal/pojo/ADItem.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/target/tao_portal/WEB-INF/classes/com/sanmu/tao/portal/service/AdService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/target/tao_portal/WEB-INF/classes/com/sanmu/tao/portal/service/impl/AdServiceImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/target/tao_portal/WEB-INF/lib/tao_manager_pojo-1.0-SNAPSHOT.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/target/tao_portal/commons/footer-links.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/target/tao_portal/commons/footer.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/target/tao_portal/commons/header.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/target/tao_portal/commons/shortcut.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/target/work/jsp/org/apache/jsp/WEB_002dINF/jsp/commons/footer_002dlinks_jsp.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/target/work/jsp/org/apache/jsp/WEB_002dINF/jsp/commons/footer_jsp.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/target/work/jsp/org/apache/jsp/WEB_002dINF/jsp/commons/header_jsp.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/target/work/jsp/org/apache/jsp/WEB_002dINF/jsp/commons/shortcut_jsp.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_portal/target/work/jsp/org/apache/jsp/WEB_002dINF/jsp/index_jsp.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_rest/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_rest/.idea/smartfox_info.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_rest/target/classes/com/sanmu/tao/rest/controller/ContentController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_rest/target/classes/com/sanmu/tao/rest/service/ContentService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_rest/target/classes/com/sanmu/tao/rest/service/impl/ContentServiceImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/artifacts/tao_search_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/artifacts/tao_search_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__com_alibaba_druid_1_0_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__com_github_miemiedev_mybatis_paginator_1_2_15.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_1_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__com_sanmu_tao_tao_common_1_0_SNAPSHOT.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__com_sanmu_tao_tao_manager_mapper_1_0_SNAPSHOT.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__com_sanmu_tao_tao_manager_pojo_1_0_SNAPSHOT.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__com_sanmu_tao_tao_spring_common_1_0_SNAPSHOT.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__commons_io_commons_io_2_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__commons_net_commons_net_3_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__joda_time_joda_time_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_32.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_apache_solr_solr_solrj_4_10_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_codehaus_woodstox_wstx_asl_3_2_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_noggit_noggit_0_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_springframework_spring_aop_4_2_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_springframework_spring_aspects_4_2_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_springframework_spring_beans_4_2_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_springframework_spring_context_4_2_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_springframework_spring_expression_4_2_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_springframework_spring_tx_4_2_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_springframework_spring_web_4_2_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/src/main/resource/mybatis/SqlMapConfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/src/main/resource/resource/db.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/src/main/resource/resource/resource.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/src/main/resource/spring/applicationContext-dao.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/src/main/resource/spring/applicationContext-service.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/src/main/resource/spring/applicationContext-solr.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/src/main/resource/spring/applicationContext.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/src/main/resource/spring/springMVC.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/src/main/webapp/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_search/tao_search.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_spring_common/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_spring_common/src/main/java/com/sanmu/tao/spring/common/datasource/DataSourceAnnotation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_spring_common/src/main/java/com/sanmu/tao/spring/common/datasource/DataSourceAspectJPointcutAdvisor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_spring_common/src/main/java/com/sanmu/tao/spring/common/datasource/SourceObject.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_spring_common/target/classes/com/sanmu/tao/spring/common/datasource/DataSourceAnnotation.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_spring_common/target/classes/com/sanmu/tao/spring/common/datasource/DataSourceAspectJPointcutAdvisor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tao_spring_common/target/classes/com/sanmu/tao/spring/common/datasource/SourceObject.class" />
+    <list default="true" id="4518f0b2-403c-4bb6-ba93-fa150b71df22" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_common/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="$PROJECT_DIR$/tao_common/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_common/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_8.xml" afterPath="$PROJECT_DIR$/tao_common/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_8.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_common/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterPath="$PROJECT_DIR$/tao_common/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_common/.idea/libraries/Maven__org_springframework_spring_aop_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_common/.idea/libraries/Maven__org_springframework_spring_aop_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_common/.idea/libraries/Maven__org_springframework_spring_aspects_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_common/.idea/libraries/Maven__org_springframework_spring_aspects_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_common/.idea/libraries/Maven__org_springframework_spring_beans_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_common/.idea/libraries/Maven__org_springframework_spring_beans_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_common/.idea/libraries/Maven__org_springframework_spring_context_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_common/.idea/libraries/Maven__org_springframework_spring_context_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_common/.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_common/.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_common/.idea/libraries/Maven__org_springframework_spring_expression_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_common/.idea/libraries/Maven__org_springframework_spring_expression_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_common/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_common/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_common/.idea/libraries/Maven__org_springframework_spring_tx_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_common/.idea/libraries/Maven__org_springframework_spring_tx_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_common/.idea/misc.xml" afterPath="$PROJECT_DIR$/tao_common/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_common/.idea/workspace.xml" afterPath="$PROJECT_DIR$/tao_common/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_common/pom.xml" afterPath="$PROJECT_DIR$/tao_common/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_common/tao_common.iml" afterPath="$PROJECT_DIR$/tao_common/tao_common.iml" />
-      <change beforePath="$PROJECT_DIR$/tao_common/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/tao_common/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/.idea/compiler.xml" afterPath="$PROJECT_DIR$/tao_manager/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterPath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterPath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__com_sanmu_tao_tao_spring_common_1_0_SNAPSHOT.xml" afterPath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__com_sanmu_tao_tao_spring_common_1_0_SNAPSHOT.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterPath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" afterPath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_8.xml" afterPath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_8.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterPath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_springframework_spring_aop_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_springframework_spring_aop_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_springframework_spring_aspects_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_springframework_spring_aspects_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_springframework_spring_beans_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_springframework_spring_beans_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_springframework_spring_context_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_springframework_spring_context_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_springframework_spring_expression_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_springframework_spring_expression_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_springframework_spring_tx_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_springframework_spring_tx_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_springframework_spring_web_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_springframework_spring_web_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_manager/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/.idea/misc.xml" afterPath="$PROJECT_DIR$/tao_manager/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/.idea/workspace.xml" afterPath="$PROJECT_DIR$/tao_manager/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_mapper/pom.xml" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_mapper/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_mapper/src/main/java/com/sanmu/tao/mapper/TbItemMapper.java" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_mapper/src/main/java/com/sanmu/tao/mapper/TbItemMapper.java" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_mapper/src/main/java/com/sanmu/tao/mapper/TbItemMapper.xml" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_mapper/src/main/java/com/sanmu/tao/mapper/TbItemMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_mapper/target/classes/com/sanmu/tao/mapper/TbItemMapper.class" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_mapper/target/classes/com/sanmu/tao/mapper/TbItemMapper.class" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_mapper/target/classes/com/sanmu/tao/mapper/TbItemMapper.xml" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_mapper/target/classes/com/sanmu/tao/mapper/TbItemMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_mapper/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_mapper/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_mapper/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_mapper/target/surefire-reports/TEST-com.sanmu.tao.AppTest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_mapper/target/surefire-reports/com.sanmu.tao.AppTest.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_mapper/target/tao_manager.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_pojo/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_pojo/target/surefire-reports/TEST-com.sanmu.tao.AppTest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_pojo/target/surefire-reports/com.sanmu.tao.AppTest.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_pojo/target/tao_manager.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_service/src/main/java/com/sanmu/tao/service/impl/ContentServiceImpl.java" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_service/src/main/java/com/sanmu/tao/service/impl/ContentServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_service/src/main/java/com/sanmu/tao/service/impl/ItemServiceImpl.java" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_service/src/main/java/com/sanmu/tao/service/impl/ItemServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_service/target/classes/com/sanmu/tao/service/impl/ContentServiceImpl.class" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_service/target/classes/com/sanmu/tao/service/impl/ContentServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_service/target/classes/com/sanmu/tao/service/impl/ItemServiceImpl.class" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_service/target/classes/com/sanmu/tao/service/impl/ItemServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_service/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_service/target/tao_manager.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/pom.xml" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_web/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/src/main/profiles/company/properties/db.properties" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_web/src/main/profiles/company/properties/db.properties" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/src/main/resources/spring/applicationContext-dao.xml" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_web/src/main/resources/spring/applicationContext-dao.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/src/main/resources/spring/applicationContext-service.xml" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_web/src/main/resources/spring/applicationContext-service.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/src/main/resources/spring/applicationContext-trans.xml" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_web/src/main/resources/spring/applicationContext-trans.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/src/main/resources/spring/applicationContext.xml" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_web/src/main/resources/spring/applicationContext.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/src/test/java/tao/service/impl/ItemCatServiceImplTest.java" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_web/src/test/java/tao/service/impl/ItemCatServiceImplTest.java" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/classes/properties/db.properties" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/classes/properties/db.properties" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/classes/spring/applicationContext-dao.xml" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/classes/spring/applicationContext-dao.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/seccenter-boss-web.war" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/seccenter-boss-web.war" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/seccenter-boss-web/WEB-INF/classes/properties/db.properties" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/seccenter-boss-web/WEB-INF/classes/properties/db.properties" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/seccenter-boss-web/WEB-INF/classes/spring/applicationContext-dao.xml" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/seccenter-boss-web/WEB-INF/classes/spring/applicationContext-dao.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/seccenter-boss-web/WEB-INF/lib/tao_common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/seccenter-boss-web/WEB-INF/lib/tao_common-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/seccenter-boss-web/WEB-INF/lib/tao_manager_mapper-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/seccenter-boss-web/WEB-INF/lib/tao_manager_mapper-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/seccenter-boss-web/WEB-INF/lib/tao_manager_pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/seccenter-boss-web/WEB-INF/lib/tao_manager_pojo-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/seccenter-boss-web/WEB-INF/lib/tao_manager_service-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/seccenter-boss-web/WEB-INF/lib/tao_manager_service-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/seccenter-boss-web/WEB-INF/lib/tao_spring_common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/seccenter-boss-web/WEB-INF/lib/tao_spring_common-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/test-classes/tao/service/impl/ItemCatServiceImplTest.class" afterPath="$PROJECT_DIR$/tao_manager/tao_manager_web/target/test-classes/tao/service/impl/ItemCatServiceImplTest.class" />
-      <change beforePath="$PROJECT_DIR$/tao_parent/.idea/misc.xml" afterPath="$PROJECT_DIR$/tao_parent/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_parent/.idea/workspace.xml" afterPath="$PROJECT_DIR$/tao_parent/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_portal/.idea/workspace.xml" afterPath="$PROJECT_DIR$/tao_portal/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_portal/src/main/java/com/sanmu/tao/portal/controller/IndexController.java" afterPath="$PROJECT_DIR$/tao_portal/src/main/java/com/sanmu/tao/portal/controller/IndexController.java" />
-      <change beforePath="$PROJECT_DIR$/tao_portal/src/main/java/com/sanmu/tao/portal/service/ContentService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_portal/src/main/java/com/sanmu/tao/portal/service/impl/ContentServiceImpl.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_portal/src/main/resources/properties/data.properties" afterPath="$PROJECT_DIR$/tao_portal/src/main/resources/properties/data.properties" />
-      <change beforePath="$PROJECT_DIR$/tao_portal/src/main/resources/spring/springMVC.xml" afterPath="$PROJECT_DIR$/tao_portal/src/main/resources/spring/springMVC.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_portal/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/tao_portal/src/main/webapp/index.jsp" />
-      <change beforePath="$PROJECT_DIR$/tao_portal/target/classes/com/sanmu/tao/portal/controller/PageController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_portal/target/classes/properties/data.properties" afterPath="$PROJECT_DIR$/tao_portal/target/classes/properties/data.properties" />
-      <change beforePath="$PROJECT_DIR$/tao_portal/target/classes/spring/springMVC.xml" afterPath="$PROJECT_DIR$/tao_portal/target/classes/spring/springMVC.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_portal/target/tao_portal.war" afterPath="$PROJECT_DIR$/tao_portal/target/tao_portal.war" />
-      <change beforePath="$PROJECT_DIR$/tao_portal/target/tao_portal/WEB-INF/classes/com/sanmu/tao/portal/controller/PageController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_portal/target/tao_portal/WEB-INF/classes/properties/data.properties" afterPath="$PROJECT_DIR$/tao_portal/target/tao_portal/WEB-INF/classes/properties/data.properties" />
-      <change beforePath="$PROJECT_DIR$/tao_portal/target/tao_portal/WEB-INF/lib/tao_common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/tao_portal/target/tao_portal/WEB-INF/lib/tao_common-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/tao_portal/target/tao_portal/index.jsp" afterPath="$PROJECT_DIR$/tao_portal/target/tao_portal/index.jsp" />
-      <change beforePath="$PROJECT_DIR$/tao_rest/.idea/workspace.xml" afterPath="$PROJECT_DIR$/tao_rest/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_rest/src/main/java/com/sanmu/tao/rest/controller/ContentController.java" afterPath="$PROJECT_DIR$/tao_rest/src/main/java/com/sanmu/tao/rest/controller/ContentController.java" />
-      <change beforePath="$PROJECT_DIR$/tao_rest/src/main/resources/spring/applicationContext-trans.xml" afterPath="$PROJECT_DIR$/tao_rest/src/main/resources/spring/applicationContext-trans.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_rest/target/classes/spring/applicationContext-trans.xml" afterPath="$PROJECT_DIR$/tao_rest/target/classes/spring/applicationContext-trans.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_rest/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/tao_rest/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/tao_rest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/tao_rest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_0.xml" afterPath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_0.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_2.xml" afterPath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_2.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_2.xml" afterPath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_2.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" afterPath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterPath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_5.xml" afterPath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_5.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_2.xml" afterPath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_2.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_8.xml" afterPath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_8.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_springframework_spring_aop_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_springframework_spring_aop_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_springframework_spring_aspects_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_springframework_spring_aspects_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_springframework_spring_beans_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_springframework_spring_beans_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_springframework_spring_context_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_springframework_spring_context_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_springframework_spring_expression_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_springframework_spring_expression_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_springframework_spring_tx_4_2_5_RELEASE.xml" afterPath="$PROJECT_DIR$/tao_spring_common/.idea/libraries/Maven__org_springframework_spring_tx_4_2_5_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/.idea/workspace.xml" afterPath="$PROJECT_DIR$/tao_spring_common/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/pom.xml" afterPath="$PROJECT_DIR$/tao_spring_common/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/src/main/java/com/sanmu/tao/App.java" afterPath="$PROJECT_DIR$/tao_spring_common/src/main/java/com/sanmu/tao/App.java" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/src/main/java/com/sanmu/tao/spring/common/context/BeanHolder.java" afterPath="$PROJECT_DIR$/tao_spring_common/src/main/java/com/sanmu/tao/spring/common/context/BeanHolder.java" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/src/main/java/com/sanmu/tao/spring/common/datasource/DataSourceAdvice.java" afterPath="$PROJECT_DIR$/tao_spring_common/src/main/java/com/sanmu/tao/spring/common/datasource/DataSourceAdvice.java" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/src/main/java/com/sanmu/tao/spring/common/datasource/DataSourceAspect.java" afterPath="$PROJECT_DIR$/tao_spring_common/src/main/java/com/sanmu/tao/spring/common/datasource/DataSourceAspect.java" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/src/main/java/com/sanmu/tao/spring/common/datasource/DataSourceContextHolder.java" afterPath="$PROJECT_DIR$/tao_spring_common/src/main/java/com/sanmu/tao/spring/common/datasource/DataSourceContextHolder.java" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/src/main/java/com/sanmu/tao/spring/common/datasource/DataSourceSwitch.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/src/main/java/com/sanmu/tao/spring/common/datasource/DynamicDataSource.java" afterPath="$PROJECT_DIR$/tao_spring_common/src/main/java/com/sanmu/tao/spring/common/datasource/DynamicDataSource.java" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/src/main/java/com/sanmu/tao/spring/common/datasource/Source.java" afterPath="$PROJECT_DIR$/tao_spring_common/src/main/java/com/sanmu/tao/spring/common/datasource/Source.java" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/src/main/resources/applicationContext-advice.xml" afterPath="$PROJECT_DIR$/tao_spring_common/src/main/resources/applicationContext-advice.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/src/test/java/com/sanmu/tao/AppTest.java" afterPath="$PROJECT_DIR$/tao_spring_common/src/test/java/com/sanmu/tao/AppTest.java" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/target/classes/applicationContext-advice.xml" afterPath="$PROJECT_DIR$/tao_spring_common/target/classes/applicationContext-advice.xml" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/target/classes/com/sanmu/tao/spring/common/datasource/DataSourceAdvice.class" afterPath="$PROJECT_DIR$/tao_spring_common/target/classes/com/sanmu/tao/spring/common/datasource/DataSourceAdvice.class" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/target/classes/com/sanmu/tao/spring/common/datasource/DataSourceAspect.class" afterPath="$PROJECT_DIR$/tao_spring_common/target/classes/com/sanmu/tao/spring/common/datasource/DataSourceAspect.class" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/target/classes/com/sanmu/tao/spring/common/datasource/DataSourceContextHolder.class" afterPath="$PROJECT_DIR$/tao_spring_common/target/classes/com/sanmu/tao/spring/common/datasource/DataSourceContextHolder.class" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/target/classes/com/sanmu/tao/spring/common/datasource/DataSourceSwitch.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/target/classes/com/sanmu/tao/spring/common/datasource/Source.class" afterPath="$PROJECT_DIR$/tao_spring_common/target/classes/com/sanmu/tao/spring/common/datasource/Source.class" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/tao_spring_common/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/tao_spring_common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/tao_spring_common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/target/surefire-reports/TEST-com.sanmu.tao.AppTest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/target/surefire-reports/com.sanmu.tao.AppTest.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tao_spring_common/target/tao_spring_common.jar" afterPath="$PROJECT_DIR$/tao_spring_common/target/tao_spring_common.jar" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -283,6 +17,11 @@
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="WARN_ABOUT_CRLF" value="false" />
   </component>
   <component name="GradleLocalSettings">
@@ -301,11 +40,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1088" />
+    <option name="y" value="-685" />
+    <option name="width" value="1096" />
+    <option name="height" value="1936" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -348,6 +87,117 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tao_spring_common/src/main/java/com/sanmu/tao/spring/common/datasource/DataSourceContextHolder.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tao_spring_common/src/main/java/com/sanmu/tao/spring/common/datasource/DynamicDataSource.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -530,10 +380,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11198000" />
+    <option name="totallyTimeSpent" value="11265000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-1088" y="-685" width="1096" height="1936" extended-state="6" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -542,15 +392,15 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16685393" sideWeight="0.503861" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16685393" sideWeight="0.496139" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16044776" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="187" y="117" width="301" height="603" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29054055" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="187" y="117" width="301" height="603" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
